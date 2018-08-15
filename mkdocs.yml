@@ -5,7 +5,8 @@ copyright: <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/
 
 nav:
   - 首页: 'index.md'
-  - 下载安装: 'install.md'
+  - '安装&运行': 'install.md'
+  - 简单入门: 'tutorial.md'
 
 
 markdown_extensions:

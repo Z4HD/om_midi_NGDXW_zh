@@ -14,4 +14,18 @@
 
 # 安装
 
-拷贝下载的脚本至 `/Applications/Adobe After Effects CS5/Scripts/ScriptUI Panels/`
+下载脚本文件并将其移动至位于 AfterEffects 安装目录的 `Script` 或 `Script\ScriptUI` 文件夹中。
+
+!!! note "AE 的安装目录在哪？"
+    也许谷歌搜索一番可以得到更好的答案。下面是一些示例，实际情况可能因AE版本不同或安装设置不同而有区别：
+    Windows：`C:\Program Files\Adobe\Adobe After Effects CC 2015.3\`
+
+# 启动
+
+## 脚本位于 `Script` 文件夹中
+
+文件 -> 脚本 -> `om_midi_NGDXW_zh.jsx`
+
+## 脚本位于 `Script\ScriptUI` 文件夹中
+
+窗口 -> `om_midi_NGDXW_zh.jsx`

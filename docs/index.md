@@ -1,6 +1,8 @@
 # Welcome to om_midi
 
-欢迎来到 om_midi.jsx 的中文神奇世界。om_midi 事一个可以将 MIDI 文件转换为 AfterEffects 关键帧的脚本。常用于一键生成音骂抽动PV。
+欢迎来到 om_midi.jsx 的中文神奇世界。
+
+om_midi 事一个能够自动将 MIDI 文件转换为 After Effects 中关键帧的脚本。它的诞生使得用AE***一键PV***成为可能。与原版相比，NGDXW先辈 修改的版本可以输出更多、更实用的关键帧类型。希望在 om_midi 的帮助下，可以把人们从枯燥繁重的音画对齐中解救出来，把更多的精力投入到更有创造性的工作上面。
 
 !!! important "为何这里看起来如此简陋？"
 
