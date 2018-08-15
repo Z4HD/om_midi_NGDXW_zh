@@ -6,7 +6,7 @@ WORKDIR /usr/src/app
 
 RUN apt update &&\ 
     apt -y upgrade &&\
-    curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash &&\
+    curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | bash &&\
     apt -y install git git-lfs ssh-client ca-certificates &&\
     git lfs install
 
