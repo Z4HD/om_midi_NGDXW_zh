@@ -11,5 +11,3 @@ RUN apt update &&\
     git lfs install
 
 RUN pip install --no-cache-dir mkdocs
-
-COPY . .
