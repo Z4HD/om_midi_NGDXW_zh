@@ -1,10 +1,10 @@
 # 持续时间(dur)
 
-!!! important "⚠施工现场⚠"
-    此页面正在施工
-
 !!! note "版本信息"
     该特性包含于原版 om_midi
+
+!!! important "不完善的页面"
+    该页面内容残缺，需要补充。欢迎您的贡献
 
 [![sample](/gallery/dur-sample1.webp)](/gallery/dur-sample1.webp)
 
