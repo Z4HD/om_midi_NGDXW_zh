@@ -1,12 +1,9 @@
 # 缩放
 
-!!! caution "⚠施工现场⚠"
-    此页面正在施工
-
 !!! note "版本信息"
     该特性包含于 NGDXW先辈 修改版 om_midi
 
-<!--此处应有图片-->
+[![sample](/gallery/scale-sample1.png)](/gallery/scale-sample1.png)
 
 生成值为 `100` 或 `-100` 的关键帧，主要用于制作左右/上下抽动效果。
 

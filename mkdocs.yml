@@ -7,12 +7,17 @@ nav:
   - '安装&运行': 'install.md'
   - 简单入门: 'tutorial.md'
   - 关键帧参考:
+    - 'reference/index.md'
     - '音高(pitch)': 'reference/pitch.md'
     - '力度(vel)': 'reference/vel.md'
     - '持续时间(dur)': 'reference/dur.md'
     - 'reference/scale.md'
     - 'reference/adv-scale.md'
     - 'reference/rotation.md'
+    - 'reference/count.md'
+    - 'reference/bool.md'
+    - 'reference/t.md'
+  - 'credits.md'
 
 theme:
   name: readthedocs
