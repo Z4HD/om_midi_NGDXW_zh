@@ -11,11 +11,12 @@
 
 !!! tip
     实例中的表达式仅供参考，实际情况可能有一定差别，请灵活运用。
+    如果使用表达式关联器的话，通常不太需要关心第一行 `temp = .....`，应该关注第二行的 `[temp, temp]` 即对关键帧数据的处理上。
 
 使用 AE 的表达式关联器为对应图层的**缩放**属性生成类似如下的表达式：
 
 ```javascript
-temp = thisComp.layer("midi").effect("缩放")("滑块");
+temp = thisComp.layer("midi").effect("缩放")("滑块"); //该行以实际情况为准，示例内容仅供参考
 
 [temp, temp]
 ```
@@ -27,7 +28,7 @@ temp = thisComp.layer("midi").effect("缩放")("滑块");
 还是上面的表达式，改成如下形式：
 
 ```javascript
-temp = thisComp.layer("midi").effect("缩放")("滑块");
+temp = thisComp.layer("midi").effect("缩放")("滑块"); //该行以实际情况为准，示例内容仅供参考
 
 [temp, 100]
 ```
@@ -39,7 +40,7 @@ temp = thisComp.layer("midi").effect("缩放")("滑块");
 还是上面的表达式，改成如下形式：
 
 ```javascript
-temp = thisComp.layer("midi").effect("缩放")("滑块");
+temp = thisComp.layer("midi").effect("缩放")("滑块"); //该行以实际情况为准，示例内容仅供参考
 
 [100, temp]
 ```
