@@ -30,3 +30,5 @@ markdown_extensions:
   - extra
 plugins:
   - search
+
+google_analytics: ['UA-108438517-3', 'om.z4hd.cf']
